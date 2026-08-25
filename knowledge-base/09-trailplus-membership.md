@@ -12,7 +12,7 @@ policy_authority: official
 
 ## Return window
 
-A customer whose TrailPlus membership was active when an order was placed receives a **45-calendar-day return window from delivery** for eligible items.
+A customer whose TrailPlus membership was active when an order was placed receives a **45 calendar days return window from delivery** for eligible items.
 
 Joining TrailPlus after placing an order does not extend that order’s return window.
 

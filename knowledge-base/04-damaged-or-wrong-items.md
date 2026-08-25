@@ -24,7 +24,7 @@ A return shipping fee is not charged when Aster & Row confirms that the item arr
 
 ## Final-sale items
 
-Final-sale items are still eligible for review when they arrive damaged, defective, or incorrect. Final sale only prevents change-of-mind returns.
+Final-sale items are still eligible for review when they arrive damaged, defective, or incorrect. Final sale only prevents change-of-mind returns. These items must still be reported within 7 calendar days of delivery.
 
 ## Reports after seven days
 
