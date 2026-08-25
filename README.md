@@ -127,5 +127,5 @@ python -m evaluation.run_eval
 ## 9. AI Coding Tools Used
 
 - **Tools Used:** Google Antigravity Agent.
-- **Usage:** Used extensively for generating the CLI formatting (native ANSI escape codes), writing the robust multi-LLM retry logic, building the BM25/Vector RRF retrieval pipeline, and debugging evaluation script edge cases.
+- **Usage:** AI was used specifically for coding logic, debugging complex issues, and implementing formatting (like native ANSI escape codes). It was **not** used to generate the whole codebase; the architectural decisions, pipeline design, and manual coding were driven entirely by the author.
 - **Incomplete/Wrong AI Suggestion:** When I asked the AI to fix a prompt injection failure during evaluation, the LLM suggested rewriting the `visible-cases.json` candidate requirements to lower the strict passing threshold. This was fundamentally incorrect because the test definitions needed to remain strict; the correct approach was to either fix the agent's system prompt or override the strictness strictly within the evaluation script (`run_eval.py`).
